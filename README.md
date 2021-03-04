@@ -1,5 +1,5 @@
 # D3-Web-Visualization-Fading-Links
-(lets svg-javascript elements fade over a clock-based animation in the user interface)
+(does let svg-javascript elements fade over a clock-based animation in the user interface)
 
 D3-Web-Visualization-Fading-Links is a software project code which graphically simulates transactions 
 between users of the KOIN * application (CSH) via a web interface. In the course of this, users where modeled as nodes and 
